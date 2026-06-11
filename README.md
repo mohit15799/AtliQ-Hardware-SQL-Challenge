@@ -86,6 +86,6 @@ Based on the insights derived from the analysis, the following strategic actions
 
 **Mohit Chauhan**
 
-- LinkedIn: [Add Your LinkedIn URL]
-- Portfolio: [Add Portfolio URL]
+- LinkedIn: www.linkedin.com/in/mohitchauhan157
+- Portfolio: https://codebasics.io/portfolio/Mohit-Chauhan
 - Email: mbchauhan1999@gmail.com

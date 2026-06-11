@@ -61,16 +61,42 @@ Based on the insights derived from the analysis, the following strategic actions
 ---
 
 
+---
+
 ## 🛠️ Technical Skills Demonstrated
 
-- SQL (MySQL)
-- CTEs
+### SQL & Data Analysis
+- Complex JOINs
+- Common Table Expressions (CTEs)
 - Window Functions
-- Joins & Subqueries
-- Aggregate Functions
+- Aggregations
+- Subqueries
+- CASE Expressions
 - Ranking Functions
-- Business Analytics
+
+### Business Analytics
+- Market Analysis
+- Channel Performance Analysis
+- Product Portfolio Analysis
+- Customer Discount Analysis
+- Sales Trend Analysis
+- Executive Insight Generation
+
+### Communication
 - Executive Storytelling
+- Strategic Recommendations
+- Management Reporting
+
+---
+
+## 📂 Presentation
+
+The complete executive presentation for this case study can be accessed below:
+
+📥 **Download Presentation:**  
+[AtliQ Hardware SQL Challenge Presentation](./AtliQ_Hardware_SQL_Challenge_Mohit_Chauhan.pptx)
+
+This presentation demonstrates the complete analytical journey—from business problem identification to SQL-driven insights and strategic recommendations.
 
 ---
 

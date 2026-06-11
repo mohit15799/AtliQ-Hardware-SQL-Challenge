@@ -1,4 +1,4 @@
-# 📊 AtliQ Hardware SQL Challenge
+# 📊 SQL-Driven Business Performance Analysis
 
 > Solved 10 real-world business problems using MySQL and translated data into executive-level insights and strategic recommendations.
 

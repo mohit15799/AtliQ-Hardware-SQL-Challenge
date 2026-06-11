@@ -18,8 +18,6 @@ This project analyzes AtliQ Hardware's business performance by solving 10 ad-hoc
 ---
 
 ## 📌 Executive Summary
-<img src="Images/executive-summary.jpg" width="800">
-
 
 
 - 🌏 Identified 8 APAC markets for Atliq Exclusive
@@ -31,8 +29,6 @@ This project analyzes AtliQ Hardware's business performance by solving 10 ad-hoc
 ---
 
 ## 📈 Strategic Recommendations
-<img src="Images/strategic-recommendations.jpg" width="800">
-
 
 Based on the insights derived from the analysis, the following strategic actions are recommended to drive sustainable growth and improve business performance:
 
@@ -68,7 +64,7 @@ Based on the insights derived from the analysis, the following strategic actions
 ---
 
 ## 🛠️ Technical Skills Demonstrated
-<img src="Images/technical-skills.jpg" width="800">
+
 
 ### SQL & Data Analysis
 - Complex JOINs

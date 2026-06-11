@@ -18,7 +18,7 @@ This project analyzes AtliQ Hardware's business performance by solving 10 ad-hoc
 ---
 
 ## 📌 Executive Summary
-![Executive Summary](Desktop/Executive Summary.jpg)
+
 
 - 🌏 Identified 8 APAC markets for Atliq Exclusive
 - 📈 Product portfolio grew by **36.33%** from FY2020 to FY2021
@@ -27,6 +27,39 @@ This project analyzes AtliQ Hardware's business performance by solving 10 ad-hoc
 - ⭐ Identified hero products driving business performance
 
 ---
+
+## 📈 Strategic Recommendations
+
+Based on the insights derived from the analysis, the following strategic actions are recommended to drive sustainable growth and improve business performance:
+
+### 🌏 Revenue Growth
+
+* Launch targeted APAC expansion initiatives, with a particular focus on high-potential markets such as **Bangladesh** and the **Philippines**.
+* Introduce seasonal sales campaigns and incentives aligned with peak demand periods, especially during **Q1**, to maximize revenue opportunities.
+
+### 📦 Product Strategy
+
+* Conduct **SKU rationalization** to identify and phase out low-margin or underperforming products.
+* Accelerate **New Product Development (NPD)** within the Accessories segment to capitalize on its strong growth momentum.
+
+### 🤝 Customer Strategy
+
+* Reassess discount structures for the top Indian customers by implementing **value-based pricing frameworks**.
+* Strengthen strategic partnerships through **Joint Business Plans (JBPs)** with key accounts such as **Croma**.
+
+### 🛒 Channel Optimization
+
+* Invest in the **Direct-to-Consumer (D2C)** channel to reduce dependence on retailer-driven sales.
+* Develop exclusive products, bundles, and promotions tailored for online and direct channels.
+
+### 💰 Cost & Margin Management
+
+* Closely monitor and price-protect products with **high manufacturing costs (greater than ₹100 per unit)** to maintain profitability.
+* Apply **value engineering initiatives** to mid-tier products to improve gross margins without compromising quality.
+
+
+---
+
 
 ## 🛠️ Technical Skills Demonstrated
 

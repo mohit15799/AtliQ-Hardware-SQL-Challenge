@@ -18,7 +18,7 @@ This project analyzes AtliQ Hardware's business performance by solving 10 ad-hoc
 ---
 
 ## 📌 Executive Summary
-![Executive Summary](Downloads/Executive Summary.jpeg)
+![Executive Summary](Desktop/Executive Summary.jpeg)
 
 - 🌏 Identified 8 APAC markets for Atliq Exclusive
 - 📈 Product portfolio grew by **36.33%** from FY2020 to FY2021
